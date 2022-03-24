@@ -3,6 +3,5 @@
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Mail: adeleyetemiloluwa674@gmail.com  
--    Facebook: Temiloluwa Temiloluwa
--    Twitter: @devtemi
+
 
